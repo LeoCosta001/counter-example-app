@@ -1,16 +1,6 @@
-# counter
+# Counter app
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To learn more about the keystore generation step-by-step, visit:
+[How create keystore for Play Store](https://www.notion.so/dart-and-flutter/Assinar-aplicativo-41783d34b9c3405c89f00282a25ad04f)
